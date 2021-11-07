@@ -1,1 +1,23 @@
-[{"title":"Note 1","text":".","id":"2a3b4cbe-f2c6-4251-b10d-e45bbcd4b70c"}]
+{
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "Note 1",
+      "text": "Note 1",
+      "id": "1"
+    },
+    {
+      "title": "Note 2",
+      "text": "2",
+      "id": "2"
+    },
+    {
+      "title": "Note 3",
+      "text": "3",
+      "id": "3"
+    }
+  ]
+}
